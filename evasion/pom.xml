@@ -21,7 +21,7 @@
 		  <configuration>
 		    <archive>
 		      <manifest>
-		        <mainClass>evasion.evasion.App</mainClass>
+		        <mainClass>evasion.evasion.Player</mainClass>
 		      </manifest>
 		    </archive>
 		    <descriptorRefs>
@@ -102,4 +102,5 @@
 	  </dependency>
 
   </dependencies>
+
 </project>
